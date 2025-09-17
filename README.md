@@ -1,4 +1,5 @@
 # Projeto de Login Full-Stack (React + FastAPI)
+## autoria: João Gallego Viana (14581606) e Vinícius de Andrade Rosa (14610991)
 
 Este é um projeto de tarefa que implementa um sistema de registro e login de usuários
 com um frontend em React (Vite) e um backend em FastAPI (com SQLAlchemy).
@@ -86,4 +87,4 @@ simultaneamente: um para o Backend e um para o Frontend.
 
 Acesse `http://localhost:5173` no seu navegador. Você poderá registrar um novo usuário e fazer login.
 
-Você também pode ver a documentação da API do backend em `http://127.0.0.1:8000/redoc`.
+Você também pode ver a documentação da API do backend em `http://127.0.0.1:8000/redoc`. q
