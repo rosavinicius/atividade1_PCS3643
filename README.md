@@ -12,7 +12,7 @@ com um frontend em React (Vite) e um backend em FastAPI (com SQLAlchemy).
 
 ---
 
-## 🚀 Como Executar o Projeto Localmente
+## Como Executar o Projeto Localmente
 
 Para executar este projeto, você precisará de dois terminais rodando
 simultaneamente: um para o Backend e um para o Frontend.
